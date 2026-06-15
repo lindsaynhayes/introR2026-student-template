@@ -1,6 +1,17 @@
 ---
-title: "Welcome"
+title: "Your Name"
+toc: false
+image: "your photo.jpg"
+about:
+  tmplate: trestles
+  links:
+  - text: GitHub
+    href: link
+  - text: email
+    href:  link
 ---
+
+::: {.columnpage}
 
 # Hello! 👋
 
